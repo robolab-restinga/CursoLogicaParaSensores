@@ -4,6 +4,14 @@
 
 O curso **Lógica para Sensores** foi desenvolvido pelo RoboLab para oferecer uma introdução em sensores, programação e robótica. Originalmente criado em formato virtual durante a pandemia de 2020 e 2021, o curso foi adaptado para o modelo presencial em 2022 para proporcionar uma experiência prática mais envolvente.
 
+## Bolsistas Participantes
+
+- Ashiley Bianca
+- Bárbara Raupp
+- Jorge Ortiz
+
+- **Professor Orientador:** Iuri Albandes
+
 ### Objetivos do Curso
 
 - Compreensão de sensores e sua aplicação.
